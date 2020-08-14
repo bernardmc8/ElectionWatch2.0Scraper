@@ -1,3 +1,6 @@
-# ElectionWatch2.0Scraper
-### Simple web scraper I created for the Political Computer Science @ Berkeley Election Watch 2.0 App. 
-The purpose of scraper.py is to scrape words and definitions from an online dictionary in order to create a database for the Political Word of the Day functionality on the app.
+# PoliticalDictScraper
+## Project Summary
+Election Watch is a mobile application project through Political Computer Science at Berkeley that aims to tackle political apathy by synthesizing political news in an easy-to-consume format. The purpose of this simple web scraper is to pull words and definitions from politicaldictionary.com so that the app can display a political "Word of the Day"
+
+<img src="https://i.ibb.co/r5S12G0/Screenshot-10.png"
+     alt="Election Watch"/>
